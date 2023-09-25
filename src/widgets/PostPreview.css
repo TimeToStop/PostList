@@ -1,0 +1,23 @@
+.container {
+    width: 90%;
+    margin: 10px auto;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.index {
+    width: 5%;
+
+    text-align: center;
+}
+
+.title {
+    width: 45%;
+}
+
+.text {
+    width: 45%
+}
+
